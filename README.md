@@ -11,30 +11,4 @@ I am Learning at the moment JavaScript, Python, Java and Huawei Cloud.
 
 :cyclone: **Currently, I'm graduating in Software Engineering, first semester.**
 
-<html>
-  <head>
-  </head>
-<div id="widget ">
-  <div class="btn-o bg" data-scribe="component:button" style="width: 100%;"><a href="https://www.instagram.com/gussnogue/" class="btn" id="b"><i class="fa fa-instagram ft14"></i><span class="label" id="l">Instagram</span></a></div>
-</div>
-  
- <html>
-  <head>
-  </head>
-<div id="widget ">
-  <div class="btn-o bg" data-scribe="component:button" style="width: 100%;"><a href="https://www.linkedin.com/in/gustavo-silva-nogueira-6077401b9/" class="btn" id="b"><i class="fa fa-linkedln ft14"></i><span class="label" id="l">Linkedln</span></a></div>
-</div> 
-   
-<html>
-  <head>
-  </head>
-<div id="widget ">
-  <div class="btn-o bg" data-scribe="component:button" style="width: 100%;"><a href="https://www.instagram.com/azi.tech/" class="btn" id="b"><i class="fa fa-AZITech ft14"></i><span class="label" id="l">CEO: AZITech</span></a></div>
-</div> 
-
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"align="center" heigth="50" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"align="center" heigth="50" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"align="center" heigth="50" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"align="center" heigth="50" width="60" />
-    </div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gussnogue&layout=compact)](https://github.com/Gussnogue/github-readme-stats)
