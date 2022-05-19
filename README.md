@@ -10,5 +10,3 @@ I am Learning at the moment C#, JavaScript, Python, Java, Huawei Cloud, and your
 :cat: Brazilian Boy, graduated (Bachelor) in Science and Technology from UFVJM; Solid knowledge in Calculus, Statistics, Physics and Chemistry. Excellence with modeling, design, analysis, statistics, application, management, of data for measurements and decisions. 
 
 :cyclone: **Currently, I'm graduating in Software Engineering, first semester.**
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gussnogue&layout=compact)](https://github.com/Gussnogue/github-readme-stats)
