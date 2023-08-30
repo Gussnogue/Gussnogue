@@ -10,6 +10,4 @@ Quality Assurance
 - Especialização, em Product Management PM - Cursos PM3
 - Especialização, em Quality Assurance: Processos e Automação de Testes - Alura
 - Certificação, Lean Seis Sigma Green Belt - FM2S Educação e Consultoria
-- Bacharelado, em Ciência e Tecnologia - Universidade Federal dos Vales do Jequitinhonha e Mucuri UFVJM  
-
-:cyclone: **Currently, I'm graduating in Software Engineering, second semester.**
+- Bacharelado, em Ciência e Tecnologia - Universidade Federal dos Vales do Jequitinhonha e Mucuri UFVJM
