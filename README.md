@@ -2,9 +2,11 @@
 
 :chart_with_upwards_trend: ***My excellence is to solve problems, create viable methods and projects, through data, softwares and platforms.***
 
-I am Learning at the moment Python, Huawei Cloud, and your frameworks.
+Quality Assurance
 
-:cat: - Especialização, Engenharia em Qualidade de Software - Escola Britânica de Artes Criativas & Tecnologia E.B.A.C 
+:cat: 
+
+- Especialização, Engenharia em Qualidade de Software - Escola Britânica de Artes Criativas & Tecnologia E.B.A.C 
 - Especialização, em Product Management PM - Cursos PM3
 - Especialização, em Quality Assurance: Processos e Automação de Testes - Alura
 - Certificação, Lean Seis Sigma Green Belt - FM2S Educação e Consultoria
