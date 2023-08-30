@@ -4,9 +4,10 @@
 
 I am Learning at the moment Python, Huawei Cloud, and your frameworks.
 
-<div class="yKRQTQ"><div class="DT3cqg" style="width: 1050px; height: 591.585px;"><div class="LpmlDw" style="transform: scale(0.640244);"><div class="RpZ9dQ" lang="pt-BR" style="width: 1640px; height: 924px;"><div class="vkewZQ"><div class="X0udsg"><div class="tOQZbg" style="background-color: rgb(255, 255, 255);"></div></div></div><div style="position: right; top: 92.4px; left: 92.4px; width: 1455.2px; height: 739.2px;"></div><div class="aP0iDg _8wgmBA" style="width: 350.035px; height: 315.134px; transform: translate(644.983px, 304.433px);"><div class="LnihSA"><div class="X0udsg"><div class="OQp0jg"><div class="xcfBCw J6cDAg"><div class="DvXlvQ" style="width: 350.035px; height: 315.134px; transform: translate(0px, 0px) rotate(0deg);"><div class="jXCxjw"><img class="paNqSg" crossorigin="anonymous" src="https://video-public.canva.com/VAEYaj-XG5A/v/e1c3612cb8.gif" draggable="false"></div></div></div></div></div></div></div></div></div></div><div class="Mckcdw _33eSpQ" style="width: 1050px; height: 591.585px; margin: 0px;"></div></div>
-
-
-:cat: Brazilian Boy, graduated (Bachelor) in Science and Technology from UFVJM; Solid knowledge in Calculus, Statistics, Physics and Chemistry. Excellence with modeling, design, analysis, statistics, application, management, of data for measurements and decisions. 
+:cat: - Especialização, Engenharia em Qualidade de Software - Escola Britânica de Artes Criativas & Tecnologia E.B.A.C 
+- Especialização, em Product Management PM - Cursos PM3
+- Especialização, em Quality Assurance: Processos e Automação de Testes - Alura
+- Certificação, Lean Seis Sigma Green Belt - FM2S Educação e Consultoria
+- Bacharelado, em Ciência e Tecnologia - Universidade Federal dos Vales do Jequitinhonha e Mucuri UFVJM  
 
 :cyclone: **Currently, I'm graduating in Software Engineering, second semester.**
