@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Gustavo Nogueira
 =========================================================================================================================================
 
-Back-end Developer - Search Engine Optimization Specialist - AI Data Engineer | Bachelor of Science and Technology - UFVJM
+Back-end Developer - Search Engine Optimization Specialist - AI Data Integration | Bachelor of Science and Technology - UFVJM
 -------------------------------------------------------------------------------------------------------
 
 \- Pós-Graduação Lato Sensu | Metodologia do Ensino da Matemática e Física / Universidade Centro Verde \[UNICV\]
