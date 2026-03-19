@@ -1,24 +1,24 @@
 # 📄 Gustavo Silva Nogueira
 
-### AI Search and Artificial Intelligence Backend/Integrations Engineer | Data Science 
+### AI Search & Artificial Intelligence Backend/Integrations Engineer | Data Science 
 
 # 🎓 Academic
 
-- 🎓 Bachelor, **Science and Technology** - UFVJM
+- 🎓 Bacharelado, **Science and Technology** - UFVJM
 
-- 🎓 Specialization, **Product Management** - PM3
+- 🎓 Especialização, **Product Management** - PM3
 
-- 🎓 Specialization, **Quality Assurance** - EBAC
+- 🎓 Especialização, **Quality Assurance** - EBAC
 
-- 🎓 Postgraduate, **Methodology of Teaching Mathematics and Physics** - UNICV
+- 🎓 Pós-Graduação Lato Sensu, **Methodology of Teaching Mathematics and Physics** - UNICV
 
-- 🎓 Formation, **C/C++ Developer** - DIO
+- 🎓 Formação, **C/C++ Developer** - DIO
 
-- 🎓 Formation, **Rust Developer** - DIO
+- 🎓 Formação, **Rust Developer** - DIO
 
-- ℹ️ Postgraduate, current: **Data Science** - UNICV
+- ℹ️ Pós-Graduação Lato Sensu, current: **Data Science** - UNICV
 
-- ℹ️ Technician, current: **Artificial Intelligence** - IFNMG
+- ℹ️ Técnico, current: **Artificial Intelligence** - IFNMG
 
 # 🛠️ Stack Principal
 
