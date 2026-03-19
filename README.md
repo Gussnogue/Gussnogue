@@ -20,7 +20,7 @@
 
 - ℹ️ Technician, current: **Artificial Intelligence** - IFNMG
 
-## 🛠️ Stack Principal
+# 🛠️ Stack Principal
 
 ### Linguagens de Programação
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -60,7 +60,7 @@
 
 ---
 
-## Projetos Recentes
+# Projetos Recentes
 
 [![🧠 Hermes Math Studio](https://img.shields.io/badge/🧠_Hermes_Math_Studio-000000?style=for-the-badge&logo=python&logoColor=white&labelColor=6b21a5)](https://github.com/Gussnogue/hermes-math-studio-estatistica-e-visualizacao-ai-numpy-plotly-pytorch)  
 **Stacks:** `Python` `Streamlit` `NumPy` `Plotly` `PyTorch` `LM Studio`
