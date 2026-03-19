@@ -1,3 +1,24 @@
+# 📄 Gustavo Silva Nogueira
+
+### AI Search and Artificial Intelligence Backend Engineer | QA Automation | Data Science | Edge
+
+# 🎓 Academic
+
+- 🎓 Bachelor, **Science and Technology** - UFVJM
+
+- 🎓 Specialization, **Product Management** - PM3
+
+- 🎓 Specialization, **Quality Assurance** - EBAC
+
+- 🎓 Postgraduate, **Methodology of Teaching Mathematics and Physics** - UNICV
+
+- 🎓 Formation, **C/C++ Developer** - DIO
+
+- 🎓 Formation, **Rust Developer** - DIO
+
+- ℹ️ Postgraduate, current: **Data Science** - UNICV
+
+- ℹ️ Technician, current: **Artificial Intelligence** - IFNMG
 
 ## 🛠️ Stack Principal
 
@@ -73,11 +94,11 @@
 
 ---
 
-- 💼 **LinkedIn:** [gustavo-nogueira-6077401b9](https://www.linkedin.com/in/gustavo-nogueira-6077401b9/)
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/gustavo-nogueira-6077401b9/)
 - 🌐 **Site da AZITech:** [azitech.com.br](https://azitech.com.br)
 - 📧 **E-mail:** gustavosilvanogueira@hotmail.com
-- 🏅 **Credly:** [Perfil de Certificações](https://www.credly.com/users/gustavo-silva-nogueira/badges)
-- 📊 **3D Data Science"** [Azitech BR](https://www.tiktok.com/@azitech.br)
+- 🏅 [**Credly - Certificações**](https://www.credly.com/users/gustavo-silva-nogueira/badges)
+- 📈 [**Lattes**](https://lattes.cnpq.br/4683515420488994)
+- 📊 **3D Data Science Models** [Azitech BR](https://www.tiktok.com/@azitech.br)
 
 ---
-
