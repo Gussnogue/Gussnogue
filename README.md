@@ -4,21 +4,21 @@
 
 # 🎓 Academic
 
-- 🎓 Bacharelado, **Science and Technology** - UFVJM
+- 🎓 Bacharelado, **Science and Technology** - UFVJM (2021)
 
-- 🎓 Especialização, **Product Management** - PM3
+- 🎓 Especialização, **Product Management** - PM3 (2022)
 
-- 🎓 Especialização, **Quality Assurance** - EBAC
+- 🎓 Especialização, **Quality Assurance** - EBAC (2023)
 
-- 🎓 Pós-Graduação Lato Sensu, **Methodology of Teaching Mathematics and Physics** - UNICV
+- 🎓 Pós-Graduação Lato Sensu, **Methodology of Teaching Mathematics and Physics** - UNICV (2024)
 
-- 🎓 Formação, **C/C++ Developer** - DIO
+- 🎓 Formação, **C/C++ Developer** - DIO (2025)
 
-- 🎓 Formação, **Rust Developer** - DIO
+- 🎓 Formação, **Rust Developer** - DIO (2025)
 
-- ℹ️ Pós-Graduação Lato Sensu, current: **Data Science** - UNICV
+- ℹ️ Pós-Graduação Lato Sensu, current: **Data Science** - UNICV (2026)
 
-- ℹ️ Técnico, current: **Artificial Intelligence** - IFNMG
+- ℹ️ Técnico, current: **Artificial Intelligence** - IFNMG (2027)
 
 # 🛠️ Stack Principal
 
