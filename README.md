@@ -40,6 +40,40 @@
 
 ---
 
+## Projetos Recentes
+
+[![🧠 Hermes Math Studio](https://img.shields.io/badge/🧠_Hermes_Math_Studio-000000?style=for-the-badge&logo=python&logoColor=white&labelColor=6b21a5)](https://github.com/Gussnogue/hermes-math-studio-estatistica-e-visualizacao-ai-numpy-plotly-pytorch)  
+**Stacks:** `Python` `Streamlit` `NumPy` `Plotly` `PyTorch` `LM Studio`
+
+[![🌐 Azitech AI Search](https://img.shields.io/badge/🌐_Azitech_AI_Search-6b21a5?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)](https://github.com/Gussnogue/azitech_open_source_ai_search_assistant)  
+**Stacks:** `Python` `Streamlit` `Groq` `Fireworks` `Together`
+
+[![📄 Assistente RAG](https://img.shields.io/badge/📄_Assistente_RAG-000000?style=for-the-badge&logo=python&logoColor=white&labelColor=6b21a5)](https://github.com/Gussnogue/assistente-administrativo-rag-langchain-ialocal-faiss)  
+**Stacks:** `LangChain` `FAISS` `Nomic` `LM Studio`
+
+[![🎬 Manim AI Generator](https://img.shields.io/badge/🎬_Manim_AI_Generator-6b21a5?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)](https://github.com/Gussnogue/manim-ai-generator-animation-data-science)  
+**Stacks:** `Python` `Streamlit` `Groq API` `Manim`
+
+[![🦠 Scraper COVID-19](https://img.shields.io/badge/🦠_Scraper_COVID-000000?style=for-the-badge&logo=python&logoColor=white&labelColor=6b21a5)](https://github.com/Gussnogue/scraper-covid-19-pandas-matplotlib)  
+**Stacks:** `Python` `Pandas` `Matplotlib` `BeautifulSoup`
+
+[![🧪 Tradutor Scilab](https://img.shields.io/badge/🧪_Tradutor_Scilab-6b21a5?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)](https://github.com/Gussnogue/ai-local-lmstudio-scilab)  
+**Stacks:** `Python` `Streamlit` `LM Studio` `Scilab`
+
+[![📊 Gerenciador Tarefas](https://img.shields.io/badge/📊_Gerenciador_Tarefas-000000?style=for-the-badge&logo=python&logoColor=white&labelColor=6b21a5)](https://github.com/Gussnogue/gerenciador-de-tarefas-com-sqlite-e-streamlit)  
+**Stacks:** `Python` `Streamlit` `SQLite` `bcrypt`
+
+[![📈 Dashboard Orçamentos](https://img.shields.io/badge/📈_Dashboard_Orçamentos-6b21a5?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)](https://github.com/Gussnogue/dashboard-inteligente-de-orcamentos-para-engenheiros)  
+**Stacks:** `Python` `Streamlit` `Pandas` `Plotly`
+
+[![🚀 SEO Analyzer Rust](https://img.shields.io/badge/🚀_SEO_Analyzer_Rust-000000?style=for-the-badge&logo=rust&logoColor=white&labelColor=6b21a5)](https://github.com/Gussnogue/Seo_Content_Analyzer_Rust)  
+**Stacks:** `Rust`
+
+[![☕ CRUD C# .NET](https://img.shields.io/badge/☕_CRUD_C%23_.NET-6b21a5?style=for-the-badge&logo=csharp&logoColor=white&labelColor=000000)](https://github.com/Gussnogue/CRUD_w_Csharp_.NET6.0_PostgreSQL_WEB_Swagger)  
+**Stacks:** `C#` `.NET 6` `Entity Framework` `PostgreSQL` `Swagger`
+
+---
+
 - 💼 **LinkedIn:** [gustavo-nogueira-6077401b9](https://www.linkedin.com/in/gustavo-nogueira-6077401b9/)
 - 🌐 **Site da AZITech:** [azitech.com.br](https://azitech.com.br)
 - 📧 **E-mail:** gustavosilvanogueira@hotmail.com
