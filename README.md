@@ -1,6 +1,6 @@
 # 📄 Gustavo Silva Nogueira
 
-### AI Search and Artificial Intelligence Backend/Integrations Engineer | QA | Data Science 
+### AI Search and Artificial Intelligence Backend/Integrations Engineer | Data Science 
 
 # 🎓 Academic
 
