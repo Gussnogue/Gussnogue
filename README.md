@@ -5,12 +5,6 @@
 
 ---
 
-## 🧠 Perfil Técnico
-
-Engenheiro de IA com ênfase em **sistemas locais**, **integração de modelos generativos** e **arquiteturas RAG**. Experiência em unir performance (Rust, C#) com produtividade Python (Streamlit, FastAPI) para construir soluções que rodam 100% na borda, sem dependência de APIs externas. Atuação em pipelines completos: coleta de dados, indexação vetorial (FAISS, Pinecone), orquestração de agentes (LangChain, CrewAI) e inferência local com LLMs.
-
----
-
 ## 🛠️ Stack
 
 | Área | Tecnologias |
