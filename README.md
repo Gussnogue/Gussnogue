@@ -68,7 +68,7 @@
 | [CRUD C# .NET](https://github.com/Gussnogue/CRUD_w_Csharp_.NET6.0_PostgreSQL_WEB_Swagger) | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square) | API RESTful em .NET 6 com Entity Framework, PostgreSQL e Swagger. Arquitetura em camadas, migrações versionadas. |
 | [System Content Agents](https://github.com/Gussnogue/system-content-agents-ai-local) | ![CrewAI](https://img.shields.io/badge/CrewAI-1C3C3C?style=flat-square) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square) | Sistema de agentes autônomos para curadoria de conteúdo, com orquestração CrewAI e modelos locais. |
 
-### 🔌 Backend & APIs (4)
+### 🔌 AI Backend & APIs (4)
 
 | Projeto | Stack | Descrição |
 |---------|-------|-----------|
